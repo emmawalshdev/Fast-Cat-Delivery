@@ -1,10 +1,11 @@
-# React Form Handler
+# Food Order React Application
 
 <!-- <div align="center">
     <a href="" target="_blank">
       <img src="" alt="App image">
     </a>
 </div> -->
+
 This Food Order App was created as an introduction to React, Hooks, Components, Content API & Redux.
 
 ## Technologies Used
